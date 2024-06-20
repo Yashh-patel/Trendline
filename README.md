@@ -15,7 +15,7 @@ Welcome to the Trendline! This repository hosts the code for a specialized web p
 
 ## Introduction
 
-Specsite is a cutting-edge web project aimed at providing an engaging and interactive user experience. This project showcases advanced web development skills, including unique design elements and interactive components. Note: The site is currently a work in progress, with ongoing efforts to enhance its functionality and responsiveness.
+Trendline is a cutting-edge web project aimed at providing an engaging and interactive user experience. This project showcases advanced web development skills, including unique design elements and interactive components. Note: The site is currently a work in progress, with ongoing efforts to enhance its functionality and responsiveness.
 
 ## Features
 
