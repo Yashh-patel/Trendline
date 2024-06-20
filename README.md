@@ -1,6 +1,6 @@
-# Specsite
+# Trendline
 
-Welcome to the Specsite! This repository hosts the code for a specialized web project designed to demonstrate web development proficiency with advanced features and modern design practices.
+Welcome to the Trendline! This repository hosts the code for a specialized web project designed to demonstrate web development proficiency with advanced features and modern design practices.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Welcome to the Specsite! This repository hosts the code for a specialized web pr
 
 ## Introduction
 
-Specsite is a cutting-edge web project aimed at providing an engaging and interactive user experience. This project showcases advanced web development skills, including unique design elements, complex animations, and interactive components. Note: The site is currently a work in progress, with ongoing efforts to enhance its functionality and responsiveness.
+Specsite is a cutting-edge web project aimed at providing an engaging and interactive user experience. This project showcases advanced web development skills, including unique design elements and interactive components. Note: The site is currently a work in progress, with ongoing efforts to enhance its functionality and responsiveness.
 
 ## Features
 
